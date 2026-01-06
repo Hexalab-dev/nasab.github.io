@@ -1,0 +1,19 @@
+title: Nasab (نسب) — Lineage
+description: A framework for building AI systems that learn like nature intended
+theme: jekyll-theme-minimal
+markdown: kramdown
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Manifesto
+    url: /manifesto/nasab-framework
+  - title: Pillars
+    url: /pillars/01-birds-eye
+  - title: Lineage
+    url: /lineage/01-claude-brainstorm
+  - title: Critiques
+    url: /critiques/open-questions
+  - title: Implementation
+    url: /implementation/architecture
