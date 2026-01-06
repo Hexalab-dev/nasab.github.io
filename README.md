@@ -68,7 +68,7 @@ nasab-pages/
 
 This repository is configured for GitHub Pages. Once published:
 
-- Visit `https://[username].github.io/nasab-pages/`
+- Visit `https://hexalab-dev.github.io/nasab-pages/`
 - Navigate through the framework documentation
 - Full conversation lineage preserved
 
